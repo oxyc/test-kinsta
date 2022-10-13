@@ -1,0 +1,17 @@
+{
+    "name": "oxyc/test-kinsta",
+    "require": {
+        "jms/serializer": "^3.18"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oxyc\\TestKinsta\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oskar Schöldström",
+            "email": "m@oxy.fi"
+        }
+    ]
+}
